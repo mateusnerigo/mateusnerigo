@@ -2,16 +2,6 @@
 
 <p>I'm an web developer that likes to experiment and implement new things to help people and improve my skills.  </p>
 
----
-
-<div align="center">
-  <a href="https://github.com/mateusnerigo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateusnerigo&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide=prs,issues,contribs"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusnerigo&layout=compact&langs_count=7&theme=nord"/>
-</div>
-
----
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding:10px; border-radius: 50%; background: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
