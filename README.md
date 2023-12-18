@@ -17,3 +17,9 @@
 - SQLite
 - SCSS
 - VueJS
+
+### 👩🏽‍💻 Other Languages and Tools
+- Docker
+- Powershell
+- Electron
+- ReactJS
