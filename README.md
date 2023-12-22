@@ -13,7 +13,7 @@
 
 ### 💖 Languages and Tools I like:
 - PHP (Codeigniter/Laravel)
-- MySQL
+- MySQL/MariaDB
 - SQLite
 - SCSS
 - VueJS
