@@ -2,16 +2,17 @@
 
 <p>I'm a developer that likes to experiment and implement new things to help people and improve my skills.  </p>
 
-### 🧰 Languages and Tools I work with:
+### 🧰 Languages and Tools that I work with:
 - C# .NET
 - Java (Android)
 - NestJS
+- React
 - AngularJS
 - Git (Github/Bitbucket/Gitlab)
 - PostgreSQL
 - VSCode
 
-### 💖 Languages and Tools I like:
+### 💖 Languages and Tools that I like:
 - PHP (Codeigniter/Laravel)
 - MySQL/MariaDB
 - SQLite
@@ -22,4 +23,3 @@
 - Docker
 - Powershell
 - Electron
-- ReactJS
