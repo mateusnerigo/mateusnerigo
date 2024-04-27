@@ -3,13 +3,10 @@
 <p>I'm a developer that likes to experiment and implement new things to help people and improve my skills.  </p>
 
 ### 🧰 Languages and Tools that I work with:
-- C# .NET
-- Java (Android)
-- NestJS
 - React
-- AngularJS
+- Python (Django)
 - Git (Github/Bitbucket/Gitlab)
-- PostgreSQL
+- OracleSQL
 - VSCode
 
 ### 💖 Languages and Tools that I like:
@@ -17,9 +14,14 @@
 - MySQL/MariaDB
 - SQLite
 - SCSS
-- VueJS
 
 ### 👩🏽‍💻 Other Languages and Tools
 - Docker
 - Powershell
 - Electron
+- C# .NET
+- Java (Android)
+- NestJS
+- AngularJS
+- VueJS
+- PostgreSQL
